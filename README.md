@@ -30,9 +30,9 @@
 - [**Bank Connect**](https://github.com/NicoCaz/BankConnect): Project description.
 - [**Face Creator (GaN IA python)**](https://github.com/NicoCaz/Face_creator_with_GAN): Project description.
   
-### Blog Posts
+<!--### Blog Posts
 - [**How to Integrate Flask with React**](https://your-blog-link.com/post1)
-- [**Understanding SCRUM in Agile Development**](https://your-blog-link.com/post2)
+- [**Understanding SCRUM in Agile Development**](https://your-blog-link.com/post2)-->
 
 ### Languages and Tools
 <p align="left">
