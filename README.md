@@ -24,6 +24,14 @@
   </a>
 </p>
 
+### Projects
+- [**PDTS Celiaquia**](https://github.com/PDTS-Celiaquia): Project description.
+- [**Clinica Java**](https://github.com/TeamProgra3/TP-Progra3): Project description.
+
+### Blog Posts
+- [**How to Integrate Flask with React**](https://your-blog-link.com/post1)
+- [**Understanding SCRUM in Agile Development**](https://your-blog-link.com/post2)
+
 ### Languages and Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -60,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://www.scrum.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg" alt="SCRUM" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-ar21.svg" alt="SCRUM" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
@@ -82,3 +90,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicocaz&" alt="nicocaz" />
 </p>
+
+### Badges and Achievements
+<p align="left">
+<!--  <img src="https://img.shields.io/badge/certified-ScrumMaster-green" alt="SCRUM Master" />-->
+ <!--  <img src="https://img.shields.io/badge/certified-Kubernetes-blue" alt="Kubernetes" />-->
+Working progress</p>
+
+
+
+### Portfolio
+Check out my portfolio: [My Portfolio](https://your-portfolio-link.com)
