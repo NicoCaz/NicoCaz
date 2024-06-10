@@ -28,8 +28,8 @@
 - [**PDTS Celiaquia**](https://github.com/PDTS-Celiaquia): Project description.
 - [**Clinica Java**](https://github.com/TeamProgra3/TP-Progra3): Project description.
 - [**Bank Connect**](https://github.com/NicoCaz/BankConnect): Project description.
-
-- 
+- [**Face Creator (GaN IA python)**](https://github.com/NicoCaz/Face_creator_with_GAN): Project description.
+  
 ### Blog Posts
 - [**How to Integrate Flask with React**](https://your-blog-link.com/post1)
 - [**Understanding SCRUM in Agile Development**](https://your-blog-link.com/post2)
