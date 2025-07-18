@@ -31,13 +31,6 @@ SaaS platform for real estate agents to manage their leads and properties.
 - **Tech Stack:** SvelteKit, PostgreSQL, Redis, Docker, Cloudflare Workers, R2
 - **Features:** CRM system, automated compliance, UX/UI design, cloud infrastructure
 
-### **Real-time Cow Monitoring System**
-
-IoT system for farm monitoring in Argentina with Arduino integration.
-
-- **Tech Stack:** JavaScript, Arduino
-- **Features:** Real-time data processing, live data maps, distributed system architecture
-
 ## 💼 Professional Experience
 
 **Fullstack Developer** - _Accenture for external bank client_ (Oct 2023 - Present)
@@ -135,9 +128,6 @@ IoT system for farm monitoring in Argentina with Arduino integration.
   </a>
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.sonarsource.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="SonarQube" width="40" height="40"/>
   </a>
 </p>
 
