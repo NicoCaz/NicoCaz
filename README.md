@@ -15,7 +15,7 @@
 
 Software Engineer with a strong foundation in computer science and a passion for building scalable, efficient systems. Currently pursuing my Computer Science Engineering degree at Universidad Nacional de Mar del Plata, combining academic knowledge with practical experience in the software industry.
 
-- 🔭 I'm currently working as **Fullstack Developer at Accenture** for external bank client
+- 🔭 I'm currently working as **Fullstack Developer at Bull Market Brokers** since **August 2025**
 - 🌱 I'm currently learning **SvelteKit, Kubernetes, and Cloud Architecture**
 - 👨‍💼 I also work as **Project Manager and Product Owner** for major banks in Argentina and Paraguay
 - 💬 Ask me about **Python, TypeScript, Java, System Design, and Project Management**
@@ -33,7 +33,13 @@ SaaS platform for real estate agents to manage their leads and properties.
 
 ## 💼 Professional Experience
 
-**Fullstack Developer** - _Accenture for external bank client_ (Oct 2023 - Present)
+**Fullstack Developer** - _Bull Market Brokers_ (Aug 2025 - Present)
+
+- Development of financial platforms and investment tools
+- Implementation of scalable microservices for trading operations
+- Enhancement of client experience with modern web technologies
+
+**Fullstack Developer** - _Accenture for external bank client_ (Oct 2023 - Aug 2025)
 
 - Development with .NET/Express/Nest/React/TypeScript
 - Building and maintaining scalable web applications
@@ -171,9 +177,4 @@ SaaS platform for real estate agents to manage their leads and properties.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicocaz&theme=dark" alt="nicocaz" />
-</p>
-
-## 🌟 Portfolio & Work
-
-Check out my complete portfolio and current projects: **[nicocaz.com](https://nicocaz.com)**
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicocaz&theme=dark" alt="nicocaz" /
