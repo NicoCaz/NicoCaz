@@ -1,180 +1,245 @@
-<h1 align="center">Hi 👋, I'm Nicolás Cazorla Martínez</h1>
-<h3 align="center">Software Engineer specializing in Python, TypeScript and Product Design</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicocaz&label=Profile%20views&color=0e75b6&style=flat" alt="nicocaz" />
+<!-- Banner / Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nicol%C3%A1s%20Cazorla%20Mart%C3%ADnez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Product%20Design&descAlignY=55&descSize=16" alt="header" />
+
+<!-- Typing SVG -->
+<a href="https://nicocaz.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Sr.+Software+Engineer+%40+Bull+Market+Brokers;Building+Propimap.com+%F0%9F%8F%A0;ETHGlobal+BA+2025+Winner+%F0%9F%8F%86+(Pyth+Entropy);Python+%7C+TypeScript+%7C+.NET+%7C+Java;Computer+Science+Engineering+%40+UNMdP;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://nicocaz.com"><img src="https://img.shields.io/badge/Portfolio-nicocaz.com-0E75B6?style=for-the-badge&logo=svelte&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nicocaz" alt="nicocaz" />
-  </a>
+<br/>
+
+<!-- Badges row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nicocaz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/NicoCaz?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%2B%20Cloud-success?style=for-the-badge" alt="focus" />
 </p>
 
-## 👨‍💻 About Me
+<!-- Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=nicocaz&theme=onedark&no-frame=true&margin-w=8&row=1&column=7" alt="trophies" />
+</a>
 
-Software Engineer with a strong foundation in computer science and a passion for building scalable, efficient systems. Currently pursuing my Computer Science Engineering degree at Universidad Nacional de Mar del Plata, combining academic knowledge with practical experience in the software industry.
+</div>
 
-- 🔭 I'm currently working as **Fullstack Developer at Bull Market Brokers** since **August 2025**
-- 🌱 I'm currently learning **SvelteKit, Kubernetes, and Cloud Architecture**
-- 👨‍💼 I also work as **Project Manager and Product Owner** for major banks in Argentina and Paraguay
-- 💬 Ask me about **Python, TypeScript, Java, System Design, and Project Management**
-- 📫 How to reach me: **nicolascazorlamartinez@gmail.com**
-- 🌍 Based in **Argentina**
+---
 
-## 🚀 Current Projects
+## 🧠 About Me
 
-### **[Propimap.com](https://propimap.com)** - SaaS Platform (Active)
+```typescript
+const nicolas = {
+  role:        "Sr. Software Engineer",
+  company:     "Bull Market Brokers",
+  location:    "Argentina 🇦🇷",
+  education:   "Computer Science Engineering @ UNMdP",
+  portfolio:   "https://nicocaz.com",
+  currently:   ["SvelteKit", "Kubernetes", "Cloud Architecture", "Web3"],
+  askMeAbout:  ["Python", ".NET", "TypeScript", "Java", "System Design", "PM"],
+  side:        "PM & Product Owner — banks in 🇦🇷 🇵🇾",
+  building:    ["propimap.com", "tanly.app"],
+  achievement: "🏆 ETHGlobal Buenos Aires 2025 — Best use of Pyth Entropy",
+  contact:     "nicolascazorlamartinez@gmail.com",
+};
+```
 
-SaaS platform for real estate agents to manage their leads and properties.
+> Sr. Software Engineer specializing in **Python, .NET, TypeScript and Product Design**. Strong foundation in CS and a passion for scalable, efficient systems. Combining academic knowledge at **Universidad Nacional de Mar del Plata** with hands-on experience across fintech, banking, SaaS and Web3.
 
-- **Tech Stack:** SvelteKit, PostgreSQL, Redis, Docker, Cloudflare Workers, R2
-- **Features:** CRM system, automated compliance, UX/UI design, cloud infrastructure
+---
 
-## 💼 Professional Experience
+## 🏆 Achievements
 
-**Fullstack Developer** - _Bull Market Brokers_ (Aug 2025 - Present)
+<table>
+  <tr>
+    <td width="100" align="center" valign="middle">🏆<br/><sub><b>Nov 2025</b></sub></td>
+    <td>
+      <b>ETHGlobal Buenos Aires — Best use of Pyth Entropy</b><br/>
+      <sub>Prize by <b>Pyth Network</b> · Project: <a href="https://tanly.app">tanly.app</a></sub><br/>
+      <a href="https://ethglobal.com">View on ETHGlobal ↗</a>
+    </td>
+  </tr>
+</table>
 
-- Development of financial platforms and investment tools
-- Implementation of scalable microservices for trading operations
-- Enhancement of client experience with modern web technologies
+---
 
-**Fullstack Developer** - _Accenture for external bank client_ (Oct 2023 - Aug 2025)
+## 🚀 Current Project
 
-- Development with .NET/Express/Nest/React/TypeScript
-- Building and maintaining scalable web applications
-- Implementing RESTful APIs and microservices
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://propimap.com">Propimap.com</a></h3>
+      <p><b>SaaS platform for real estate agents</b> — manage leads, properties and listings from a single place.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      </p>
+      <ul>
+        <li>CRM system with automated compliance</li>
+        <li>UX/UI design end-to-end</li>
+        <li>Cloud infra on Cloudflare Workers + R2</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://propimap.com">
+        <img src="https://img.shields.io/badge/Visit-propimap.com-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <br/><br/>
+      <sub>🟢 Active · Production</sub>
+    </td>
+  </tr>
+</table>
 
-**Presale Engineer & Cybersecurity Analyst** - _WellTech_ (Jun 2021 - Oct 2023)
+---
 
-- Complete business process from POCs to client contract signing
-- Vulnerability analysis and security assessments
-- Technical demonstrations and threat detection
+## 💼 Experience
 
-**Project Manager and Product Owner** - _Freelance_ (2019 - Present)
+| Role | Company | Period |
+|------|---------|--------|
+| 💻 **Sr. Software Engineer** | Bull Market Brokers | Aug 2025 — Present |
+| 💻 **Fullstack Developer** | Accenture (external bank client) | Oct 2023 — Aug 2025 |
+| 🛡️ **Presale Engineer & Cybersecurity Analyst** | WellTech | Jun 2021 — Oct 2023 |
+| 📋 **Project Manager / Product Owner** | Freelance (banks 🇦🇷 🇵🇾) | 2019 — Present |
 
-- Managing projects for major banks in Argentina and Paraguay
-- Developing customized banking solutions
-- Implementing security protocols for financial institutions
+<details>
+<summary><b>📖 Expand responsibilities</b></summary>
+
+**Bull Market Brokers** — financial platforms, trading microservices, modern web UX.
+**Accenture** — .NET / Express / Nest / React / TypeScript, REST APIs, microservices.
+**WellTech** — POCs → contract signing, vulnerability analysis, threat detection.
+**Freelance PM/PO** — banking solutions, security protocols, stakeholder mgmt.
+
+</details>
+
+---
 
 ## 🎓 Education
 
-**Computer Science Engineering** - _Universidad Nacional de Mar del Plata_ (2017 - Present)
+- 🎓 **Computer Science Engineering** — *Universidad Nacional de Mar del Plata* `(2017 — Present)`
+- 🔧 **Electro-Mechanical Technician** — *Instituto Industrial Pablo Tavelli* `(2012 — 2017)`
 
-**Electro Mechanical Technician** - _Instituto Industrial Pablo Tavelli_ (2012 - 2017)
+---
 
-## 🛠️ Technologies & Skills
+## 🛠️ Tech Stack
 
-### Programming Languages & Frameworks
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,cs,dotnet,java,flask,spring,react,svelte,nextjs,nodejs,express,nestjs,tailwind" />
 </p>
 
-### Databases & Cloud
-
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
 </p>
 
-### Development Tools
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,sonarqube,cloudflare" />
 </p>
 
-## 📚 Featured Projects
-
-### Banking & Finance
-
-- **[Banking Waiting Line Management System](https://github.com/NicoCaz/BankConnect)** - Real-time queue management for Argentine banks using Java microservices
-- **[Medical Clinic Management System](https://github.com/TeamProgra3/TP-Progra3)** - MVP system with Java Spring Boot, React, and MySQL
-
-### AI & Machine Learning
-
-- **[Fake Face Creator with GAN](https://github.com/NicoCaz/Face_creator_with_GAN)** - Generative AI project using TensorFlow and Keras
-
-### IoT & Distributed Systems
-
-- **[Real-time Cow Monitoring](https://github.com/NicoCaz/TP-Sistema-Distribuidos)** - Arduino-based monitoring system for farms
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/cazorlamartineznicolas" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/NicoCaz_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://github.com/NicoCaz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-  </a>
+### Tools & Methods
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,figma" />
 </p>
+
+<sub>💡 Also: Machine Learning · Agile/Scrum · System Design · Data Structures & Algorithms · Product Design · Web3</sub>
+
+---
+
+## 📚 Projects Portfolio
+
+### 🟢 Currently Active
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏠 **[Propimap.com](https://propimap.com)** | SaaS CRM for real estate agents — leads + properties | SvelteKit · Postgres · Redis · Docker · Cloudflare Workers + R2 |
+| 🎲 **[tanly.app](https://tanly.app)** | 🏆 ETHGlobal BA 2025 winner — Pyth Entropy integration | Web3 · Pyth Network |
+
+### ✅ Completed
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💰 Banking & Finance</h4>
+      <ul>
+        <li><a href="https://github.com/NicoCaz/BankConnect"><b>BankConnect</b></a><br/><sub>Real-time queue management, Java microservices, fault tolerance</sub></li>
+        <li><a href="https://github.com/TeamProgra3/TP-Progra3"><b>Medical Clinic MVP</b></a><br/><sub>Spring Boot + React + MySQL · CRUD + turns mgmt</sub></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI / ML</h4>
+      <ul>
+        <li><a href="https://github.com/NicoCaz/Face_creator_with_GAN"><b>Fake Face Creator (GAN)</b></a><br/><sub>Generative AI · TensorFlow + Keras</sub></li>
+      </ul>
+      <h4>🌐 IoT & Distributed Systems</h4>
+      <ul>
+        <li><a href="https://github.com/NicoCaz/TP-Sistema-Distribuidos"><b>Real-time Cow Monitoring</b></a><br/><sub>Arduino · live-map · distributed pipeline</sub></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<sub>📂 Full portfolio → <a href="https://nicocaz.com">nicocaz.com</a></sub>
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicocaz&show_icons=true&locale=en&layout=compact&theme=dark" alt="nicocaz" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicocaz&show_icons=true&locale=en&theme=dark" alt="nicocaz" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nicocaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicocaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicocaz&theme=dark" alt="nicocaz" /
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicocaz&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicocaz&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/cazorlamartineznicolas">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/NicoCaz_">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://github.com/NicoCaz">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:nicolascazorlamartinez@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://nicocaz.com">
+  <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=svelte&logoColor=white" />
+</a>
+<a href="https://propimap.com">
+  <img src="https://img.shields.io/badge/Propimap-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
+
+<sub>⭐️ From <a href="https://github.com/NicoCaz">NicoCaz</a> — Thanks for visiting!</sub>
+
+</div>
